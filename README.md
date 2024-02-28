@@ -1,8 +1,26 @@
-# React + Vite
+# ASCII Art Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Convert images to ASCII art with this simple React application.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [About](#about)
+- [Demo](#demo)
+- [Features](#features)
+
+
+## About
+
+This project is a React-based application that allows users to upload images and convert them into ASCII art. It utilizes a simple algorithm to map pixel values to ASCII characters, creating a unique representation of the original image.
+
+## Demo
+
+link to a live demo of your application (if available).
+
+## Features
+
+- Image upload and ASCII conversion.
+- Display of original image and generated ASCII art.
+- Responsive design for various screen sizes.
+
+
