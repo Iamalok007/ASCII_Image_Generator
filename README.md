@@ -15,7 +15,7 @@ This project is a React-based application that allows users to upload images and
 
 ## Demo
 
-link to a live demo of your application (if available).
+link to a live demo of your application (https://ascii-image-generator.vercel.app/).
 
 ## Features
 
